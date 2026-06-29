@@ -1,5 +1,5 @@
 # ecomm
 this is my demo ecommerce website
 <br>
-authoe me
- 
+Author "priyanhsi namdev"
+
